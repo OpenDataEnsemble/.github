@@ -13,7 +13,7 @@ ODE is a modular, open-source toolset for designing, capturing, and synchronizin
 
 ### 🎻 Instruments in the Ensemble
 
-- **Formulus** – The mobile-first form engine, built on JSONForms and optimized for field usability.
+- **Formulus** – The mobile-first form engine, built on [JSONForms](https://github.com/eclipsesource/jsonforms) and optimized for field usability.
 - **Synkronus** – The synchronization layer and backend API, built for offline resilience and seamless data flow.
 - **CLI + Dev Tools** – Utilities to help you develop, test, and manage your data instruments.
 

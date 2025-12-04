@@ -1,34 +1,47 @@
-# 🚧 WORK IN PROGRESS! 🚧
+# Open Data Ensemble (ODE)
 
-**Something big is brewing—keep an eye on this spot!**
+**A comprehensive platform for designing, capturing, and synchronizing field data with precision and reliability.**
 
----
- 
-
-# ODE – Open Data Ensemble
-
-🎼 **A symphony of open data instruments—ready for fieldwork, made for impact.**
-
-ODE is a modular, open-source toolset for designing, capturing, and synchronizing field data with clarity and control. Built for development practitioners, researchers, and humanitarian teams, ODE helps you compose powerful data collection workflows with ease.
-
-### 🎻 Instruments in the Ensemble
-
-- **Formulus** – The mobile-first form engine, built on [JSONForms](https://github.com/eclipsesource/jsonforms) and optimized for field usability.
-- **Synkronus** – The synchronization layer and backend API, built for offline resilience and seamless data flow.
-- **CLI + Dev Tools** – Utilities to help you develop, test, and manage your data instruments.
-
-### 🚀 Why ODE?
-
-- Open and community-driven
-- Designed for real-world field constraints
-- Built for interoperability and extensibility
-- Clean, focused developer experience
-
-### 💡 Learn More
-
-Visit [opendataensemble.org](https://opendataensemble.org)  
-or check out the individual projects in this organization to get started.
+ODE is a modular, open-source toolset engineered for development practitioners, researchers, and humanitarian teams. Built with clarity and control in mind, ODE enables organizations to compose powerful data collection workflows that excel in challenging field environments.
 
 ---
 
-*Formulus captures the field. Synkronus keeps it in sync. You orchestrate the impact.*
+## Overview
+
+ODE provides a complete solution for mobile-first data collection, designed to operate seamlessly in offline environments while maintaining robust synchronization capabilities. The platform emphasizes interoperability, extensibility, and a clean developer experience.
+
+## Core Components
+
+### Formulus
+
+A mobile-first form engine built on [JSONForms](https://github.com/eclipsesource/jsonforms), optimized for field usability and offline operation. Formulus delivers an intuitive interface for data collection across Android and iOS devices.
+
+### Synkronus
+
+The synchronization layer and backend API, engineered for offline resilience and seamless data flow. Synkronus handles data synchronization, storage, and provides the backbone for all data operations across the platform.
+
+### CLI & Development Tools
+
+Command-line utilities and development tools to help you develop, test, and manage your data collection workflows. Includes utilities for custom app data management, user administration, and data export capabilities.
+
+## Key Features
+
+- **Open Source & Community-Driven**: Built with transparency and community collaboration at its core
+- **Field-Optimized**: Designed specifically for real-world field constraints and challenging environments
+- **Interoperable & Extensible**: Built on open standards with a modular architecture for easy extension
+- **Developer-Focused**: Clean APIs and comprehensive tooling for a superior development experience
+- **Offline-First**: Robust offline capabilities with reliable synchronization when connectivity is restored
+
+## Getting Started
+
+For detailed documentation, visit [opendataensemble.org](https://opendataensemble.org).
+
+To explore individual components and begin development, check out the projects within this organization.
+
+## Contributing
+
+ODE welcomes contributions from developers, researchers, and practitioners. Whether you're interested in software development, documentation, testing, or community building, there's a place for you in the ensemble.
+
+---
+
+*Building the future of open data collection, one contribution at a time.*

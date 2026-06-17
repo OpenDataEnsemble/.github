@@ -26,6 +26,12 @@ The synchronization layer and backend API, engineered for offline resilience and
 
 Command-line utilities and development tools to help you develop, test, and manage your data collection workflows. Includes utilities for custom app data management, user administration, and data export capabilities.
 
+
+### [ODE Desktop](https://github.com/OpenDataEnsemble/ode/tree/dev/desktop)
+
+A versatile desktop application designed for data managers (data cleaning, data aggregation, generation etc.) as well as form and custom_app deelopers with an integrated `formplayer` that let's you test and validate your forms before they even leave your computer. And a custom_app player, with a fully functional Formulus API implementation, that allows custom_app developers to test their application in a real environment with a fast turn-around time, before moving on to test on physical devices.
+
+
 ---
 
 ## Key Features

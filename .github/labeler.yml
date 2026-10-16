@@ -1,0 +1,10 @@
+# Auto-labeling configuration for pull requests (actions/labeler@v5)
+# Labels are applied based on the files changed in the PR.
+
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: ['**/*.md', 'profile/**']
+
+ci:
+  - changed-files:
+      - any-glob-to-any-file: ['.github/workflows/**', '.github/*.yml']
